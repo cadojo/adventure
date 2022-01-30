@@ -1,16 +1,12 @@
-# adventure-with-swords
-
-An 8-bit styled adventure game, written with love and Python!
-
+# Adventure
+_An 8-bit styled adventure game, written with love and Python!_
 
 ## Description
 
-A longer description of your project goes here...
+This will be a long development process!
 
 
-<!-- pyscaffold-notes -->
+## Credits
 
-## Note
+* The project structure was generated with [PyScaffold](https://pyscaffold.org/)
 
-This project has been set up using PyScaffold 4.1.4. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
